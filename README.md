@@ -1,4 +1,4 @@
-[Short Autotools tutorial](https://www.gc3.uzh.ch/blog/Autotools_tutorial/) by University of Zurich](https://www.uzh.ch/) licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Unedited(but may be missing some formatting) [Short Autotools tutorial](https://www.gc3.uzh.ch/blog/Autotools_tutorial/) by [University of Zurich](https://www.uzh.ch/) licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 What is autotools
 =================
